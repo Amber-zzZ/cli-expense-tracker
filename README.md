@@ -1,4 +1,6 @@
-# CLI Expense Tracker — Usage
+# CLI Expense Tracker 
+A learning project 
+https://roadmap.sh/projects/expense-tracker
 
 Add an expense:
 
