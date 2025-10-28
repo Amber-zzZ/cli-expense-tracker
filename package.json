@@ -1,0 +1,27 @@
+{
+  "name": "cli-expense-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Amber-zzZ/cli-expense-tracker#readme",
+  "bugs": {
+    "url": "https://github.com/Amber-zzZ/cli-expense-tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amber-zzZ/cli-expense-tracker.git"
+  },
+  "license": "ISC",
+  "author": "Amber",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^14.0.2",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "node-ts": "^8.0.8",
+    "typescript": "^5.9.3"
+  }
+}
